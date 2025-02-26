@@ -1,6 +1,4 @@
-# Zug Zug - social network
-
-## TikTok Clone on Solana
+# TikTok Clone on Solana
 
 A decentralized short-form video platform built on the Solana blockchain. This project demonstrates how to create a social media application with key TikTok features using Solana's high-performance blockchain.
 
